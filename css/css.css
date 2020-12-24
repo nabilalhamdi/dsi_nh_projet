@@ -1,0 +1,129 @@
+body{
+    background-color: #00001a;
+    color: aliceblue;
+}
+.pic1{
+    height: 147px;
+    width: 150px;
+    float: left;
+}
+.titre1{
+    font-family: Irish Grover;
+    text-align: center;
+     color: bisque;
+}
+
+.titre3{
+    text-align: center;
+    color: #8A4B08;
+}
+#search{
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+}
+.search{
+    width: 500px;
+    background-color: aquamarine;
+    color: darkolivegreen;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+#list{
+    border-bottom:1px solid #fff;
+}
+.rech{
+    margin-left: 700px;
+}
+#bord{
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.article{
+    margin: 50px;
+}
+form{
+    border: 1px dashed white;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 20px;
+    background-color: cadetblue;
+}
+input{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 500px;
+    height: 30px;
+    border-radius: 15px;
+    
+    
+}
+p{
+    margin-left: 50px;
+}
+button{
+    margin-left: 100px;
+    width: 100px;
+    height: 40px;
+    background: #04B45F;
+    border-radius: 15px;
+}
+h2{
+    text-align: center;
+}
+.connect{
+    margin-left: 500px;
+}
+a:hover{
+    color: red;
+    background-color: darkolivegreen  
+}
+    .sidebare{
+                  float:left;
+                background-color: #088A4B;
+                width: 200px;
+                height: 300px;
+                margin-left: 90px;
+                border-radius: 20px;
+                  }
+            a{
+                text-decoration: none;
+                color: white;
+            }
+            li{
+                list-style: none;
+            }
+            li:hover{
+                background-color: #210B61;
+                height: 40px;
+                
+            }
+            a:hover{
+                color: red;
+                background-color: #210B61;
+            }
+            .body{
+                background-image: url(img/ghjk.jpg);
+                opacity: 0.3;
+                background-attachment: scroll;
+                margin-top: 20px;
+                width:1000px;
+                height: 400px;
+                float: right;
+                margin-right: 50px;
+                border-radius: 20px;
+            }
+            .footer{
+                margin-top: 20px;
+                background-color: #088A4B;
+                width: 90%;
+                text-align: center;
+                color: orangered;
+                height: 200px;
+                float: left;
+                margin: 100px;
+                margin-right: 50px;
+                border-radius: 20px;
+                font-size: 50px;
+            }
